@@ -112,11 +112,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/aizatorbit"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com"
+name = "linkedin"
+url = "https://www.linkedin.com/in/aizatx"
 
 [[params.socialIcons]]
 name = "Rss"
