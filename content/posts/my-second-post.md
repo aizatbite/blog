@@ -5,3 +5,5 @@ draft: false
 ---
 
 This is your second post! Edit this content as you like.
+
+![Alt text](/images/hill.jpeg)
