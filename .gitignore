@@ -1,0 +1,11 @@
+
+   # Hugo output and cache
+   public/
+   resources/
+   .hugo_build.lock
+
+   # OS files
+   .DS_Store
+
+   # Node modules (if you use npm/yarn)
+   node_modules/
