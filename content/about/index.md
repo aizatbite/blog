@@ -3,9 +3,6 @@ title: "About"
 date: 2025-06-14T00:00:00Z
 draft: false
 ---
-
-# About
-
 Hey, I'm Aizat.
 
 Currently learning everything I can about LLMs from training them locally, running inference, and figuring out how they actually work.
