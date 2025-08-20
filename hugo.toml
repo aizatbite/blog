@@ -93,7 +93,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Braindumps"
   name = "Aizat Azhar"
-  description = "A personal log of thoughts and ongoing work."
+  description = "A personal log of thoughts and ongoing works."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
